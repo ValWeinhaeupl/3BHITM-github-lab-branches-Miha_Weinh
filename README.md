@@ -1,5 +1,5 @@
 # 3BHITM-github-lab-branches-Miha_Weinh
 nächster change
 servus
-pull request 
+pull request
 valentin änderung
