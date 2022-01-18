@@ -10,6 +10,12 @@ public class Main {
 
         System.out.println("187");
 
+<<<<<<< Updated upstream
         System.out.println("Hallo Valentin!");
+=======
+        System.out.println("to stash");
+
+        System.out.println("Valentin stash");
+>>>>>>> Stashed changes
     }
 }
